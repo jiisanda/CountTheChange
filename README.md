@@ -20,7 +20,11 @@ Enter an amount in cents : 92
  
 You can provide this change as follows:
 dollars : 0
+
 quaters : 3
+
 dimes   : 1
+
 nickels : 1
+
 pennies : 2
